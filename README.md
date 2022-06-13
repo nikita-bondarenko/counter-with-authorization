@@ -9,6 +9,10 @@ npm install
 npm run dev
 ```
 ### Login: 
-``` admin```
+``` 
+admin
+```
 ### Password: 
-```pwd007```
+```
+pwd007
+```
